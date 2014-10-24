@@ -160,7 +160,6 @@ a:focus {
     content: "·";
     display: inline-block;
     width: 0.5em;
-
     color: #666;
     text-align: right;
   }
