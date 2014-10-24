@@ -103,7 +103,6 @@ a:focus {
 .nav a:link,
 .nav a:visited {
   display: block;
-
   color: #0074D9;
   text-decoration: none;
 }
@@ -154,6 +153,9 @@ a:focus {
   .nav-footer a:link,
   .nav-footer a:visited {
     display: inline-block;
+    color: #0074D9;
+  text-decoration: none;
+}
   }
 
   .nav-footer li::after {
@@ -221,3 +223,6 @@ a:focus {
   }
 
 }
+
+
+
