@@ -249,11 +249,6 @@ textarea {
     height: 10em;
 }
 
-.button {
-    text-align: center;
-    overflow: hidden
-}
-
 th,
 td {
     text-align: left;
@@ -272,4 +267,7 @@ Legend {
     width: 64%;
 }
 
+button {
+font-size: 0.7em;
+}
 
