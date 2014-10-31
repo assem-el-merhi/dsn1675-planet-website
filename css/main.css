@@ -120,7 +120,7 @@ a:focus {
 }
 
 .section-mid {
-  background-color: #e2e2e2;
+  background-color: #efefef;
 }
 
 .section {
@@ -166,11 +166,7 @@ a:focus {
     text-align: right;
   }
 
-  .nav-footer li:last-child::after {
-    content: none;
-  }
-
-  .discovery-title-extra {
+ .discovery-title-extra {
     display: inline;
   }
 
@@ -222,5 +218,58 @@ a:focus {
 
 }
 
+.radio {
+    white-space: nowrap;
+}
+
+label {
+    display: block;
+    
+}
+
+input + label {
+    display: inline-block;
+}
+form{
+    max-width: 35em;
+    margin: 0 auto;
+}
+
+.name,
+.email {
+    width: 60%;
+     font-size: 1.5em;
+}
+
+.field {
+    width: 100%;
+}
+
+textarea {
+    height: 10em;
+}
+
+.button {
+    text-align: center;
+    overflow: hidden
+}
+
+th,
+td {
+    text-align: left;
+}
+
+.field {
+    width: 60%;
+    font-size: 1.5em;
+}
+
+textarea {
+    width: 60%;
+}    
+    
+Legend {
+    width: 64%;
+}
 
 
