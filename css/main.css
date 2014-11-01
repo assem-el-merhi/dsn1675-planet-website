@@ -245,10 +245,6 @@ form{
     width: 100%;
 }
 
-textarea {
-    height: 10em;
-}
-
 th,
 td {
     text-align: left;
@@ -261,6 +257,8 @@ td {
 
 textarea {
     width: 60%;
+    height: 10em;
+    
 }    
     
 Legend {
@@ -269,5 +267,10 @@ Legend {
 
 button {
 font-size: 0.7em;
+}
+
+form {
+    text-align: left;
+   
 }
 
