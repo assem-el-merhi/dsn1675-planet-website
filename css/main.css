@@ -120,7 +120,7 @@ a:focus {
 }
 
 .section-mid {
-  background-color: #efefef;
+  background-color: #e2e2e2;
 }
 
 .section {
@@ -230,47 +230,35 @@ label {
 input + label {
     display: inline-block;
 }
-form{
-    max-width: 35em;
-    margin: 0 auto;
-}
-
 .name,
 .email {
-    width: 60%;
+    width: 80%;
      font-size: 1.5em;
 }
 
 .field {
-    width: 100%;
-}
-
-th,
-td {
-    text-align: left;
-}
-
-.field {
-    width: 60%;
+    width: 80%;
     font-size: 1.5em;
 }
 
 textarea {
-    width: 60%;
+    width: 80%;
     height: 10em;
-    
 }    
     
 Legend {
-    width: 64%;
+    width: 80%;
 }
 
 button {
 font-size: 0.7em;
+text-align: center;
 }
 
 form {
     text-align: left;
-   
+    margin-left: 3.5em;
 }
+
+.li b
 
