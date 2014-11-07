@@ -1,5 +1,5 @@
-html {
-  font: normal 100%/1.5 sans-serif;
+nav {
+  font-family: 'Raleway', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6,
@@ -141,3 +141,27 @@ sub {
   padding-left: 3.0000rem;
   padding-right: 3.0000rem;
 }
+
+h1, h2, h3, h4, h5, h6,
+.brand-family{    
+font-family: "Open Sans",sans-serif;
+}
+
+p {
+font-family: "Open Sans",sans-serif;
+}
+
+html {
+    font-family: 'Quattrocento Sans', sans-serif;
+}
+
+p {
+font-family: 'Raleway', sans-serif;
+}
+    
+     
+    
+
+    
+    
+    
