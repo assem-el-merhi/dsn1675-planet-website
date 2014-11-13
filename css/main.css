@@ -120,6 +120,11 @@ a:focus {
 
 .section-dark {
   background-color: black;
+  overflow: hidden;
+  background-image: url(../images/venus-graphic.png);
+  background-size: 15rem;
+  background-repeat: no-repeat;
+  background-position:top
 }
 
 .section-mid {
