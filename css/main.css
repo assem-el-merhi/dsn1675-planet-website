@@ -123,11 +123,11 @@ a:focus {
 }
 
 .section-mid {
-  background-color: #ffffcc;
+  background-color: #fffff0;
 }
 
 .section {
-  background-color: #fffacd;
+  background-color: #ffffcc;
 }
 
 .intro {
@@ -254,9 +254,11 @@ Legend {
     width: 80%;
 }
 
-button {
+button{
 font-size: 0.7em;
 text-align: center;
+background-color: black;
+color: yellow;
 }
 
 form {
@@ -264,6 +266,50 @@ max-width: 35em;
 margin: 0 auto;
 }
 
+a {
+color: yellow;
+text-decoration: none;
+}
+
+.table-outer {
+  overflow-x: auto;
+}
+
+.table-inner {
+  margin: 0 auto;
+  max-width: 60em;
+  min-width: 45em;
+}
+
+table {
+  width: 100%;
+
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 0.2rem;
+  text-align: left;
+}
+
+thead th {
+  background-color: black;
+  border-bottom: 1px solid #ccc;
+  
+}
+
+tbody th,
+tbody td {
+  border-bottom: 1px solid black;
+}
+
+th {
+color: yellow;
+background-color: black;
+border-bottom: 1px solid #ccc;
+{
+     
 
 
 
